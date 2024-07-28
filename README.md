@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdashraf9870&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🌱 I’m currently a **FULL STACK DEVELOPER**
 
-- 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT.JS, NODE.JS, TYPESCRIPT, VISUAL STUDIO CODE.**
+- 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MongoDB ,Redux ,TYPESCRIPT, VISUAL STUDIO CODE.**
 
 - 📫 How to reach me <a href="dev.ovaiskhan@gmail.com"/>**dev.ovaiskhan@gmail.com**</a>
 
