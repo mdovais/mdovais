@@ -7,10 +7,11 @@
 
 - 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT.JS, NODE.JS, TYPESCRIPT, VISUAL STUDIO CODE.**
 
-- 📫 How to reach me **ovaiskhan.me@gmail.com**
+- 📫 How to reach me <a href="dev.ovaiskhan@gmail.com"/>**dev.ovaiskhan@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Linkedin : <a href="https://www.linkedin.com/in/mdovais/">Ovais khan</a>
 </p>
 <p align="left">Twitter : <a href="https://twitter.com/md__ovais">Md Ovais</a>
 </p>
+<p align="left">Instagram : <a href="https://instagram.com/dev.ovais">dev.ovais</p>
