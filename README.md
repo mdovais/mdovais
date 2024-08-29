@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a **FULL STACK DEVELOPER**
 
-- 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MongoDB ,Redux ,TYPESCRIPT, VISUAL STUDIO CODE.**
+- 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MongoDB ,Redux,Express.js,TYPESCRIPT, VISUAL STUDIO CODE.**
 
 - 📫 How to reach me <a href="dev.ovaiskhan@gmail.com"/>**dev.ovaiskhan@gmail.com**</a>
 
