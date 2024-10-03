@@ -65,13 +65,13 @@
 
 <h2 align="center">🔥 Contributions & Activity Graph</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdashraf9870&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mdovais&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 ---
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">"When I'm not coding, I'm exploring new tools, solving problems, or enhancing my skills!" 😄</p>
+<p align="center">"When I'm not coding, you can find me exploring the world of tech, reading about new tools, or improving my skills one bug fix at a time!" 😄</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
